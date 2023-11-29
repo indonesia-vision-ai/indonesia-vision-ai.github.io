@@ -4,6 +4,8 @@ title: VisionAI.ID
 description: Indonesia Vision AI Landing Page
 author: "Indonesia Vision AI Team"
 
+base_url: /indonesia-vision-ai.github.io
+repository: indonesia-vision-ai/indonesia-vision-ai.github.io
 
 minima:
   date_format: "%Y-%m-%d"
