@@ -1,5 +1,5 @@
 ---
 permalink: /
-layout: community
+layout: page
 title: Community
 ---
