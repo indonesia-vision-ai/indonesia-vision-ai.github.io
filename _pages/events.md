@@ -1,5 +1,5 @@
 ---
 permalink: /
-layout: events
+layout: page
 title: Events
 ---
