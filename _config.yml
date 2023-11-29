@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
+
+title: VisionAI.ID
 description: Indonesia Vision AI Landing Page
 author: "Indonesia Vision AI Team"
+
 
 minima:
   date_format: "%Y-%m-%d"
@@ -10,3 +13,6 @@ header_pages:
   
 include:
     - _pages
+
+exclude:
+    - README.md
