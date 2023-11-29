@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+description: Indonesia Vision AI Landing Page
+author: "Indonesia Vision AI Team"
+
+minima:
+  date_format: "%Y-%m-%d"
+
+header_pages:
+  - _pages/frontpage.md
+  
+include:
+    - _pages
