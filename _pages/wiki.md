@@ -1,5 +1,5 @@
 ---
 permalink: /
-layout: wiki
+layout: page
 title: Wiki
 ---
