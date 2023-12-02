@@ -11,7 +11,7 @@ We also welcome people who work on machine learning with the flavour of visual d
 
 
 ## How to Join, Participate and Contribute
-- Joining the community is easy and casual. You can be an observant, a contributor, or an administrator. Please join our Discord community for further discussion [[Discord]](https://discord.com/channels/1159455703489052724/1159455703489052729).
+- Joining the community is easy and casual. You can be an observant, a contributor, or an administrator. Please join our Discord community for further discussion [[Discord]](https://discord.gg/YDn3DzPVjQ).
 - We are more than welcome if you want to be a mentor and help junior researchers in getting to know the field. As requirements, you have been recognized internationally as a researcher in the university, industry, or anywhere and published some works in reputable conferences and journals.
 - If you want to be mentored by people in our community, we have some slots depending on availability. However, we want to make sure that you are serious to elevate your research skills in computer vision and machine learning. To verify this, we might require you to take some tests and background checks.
 
