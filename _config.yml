@@ -1,11 +1,14 @@
 theme: minima
 
-title: VisionAI.ID
-description: Indonesia Vision AI Landing Page
-author: "Indonesia Vision AI Team"
+title: Indonesia Vision AI
+description: Indonesia Vision AI stands as an independent, non-profit entity committed to facilitating computer vision (CV) research opportunities for researchers within Indonesia.
+author: Indonesian Researcher
 
 base_url: /
 repository: indonesia-vision-ai/indonesia-vision-ai.github.io
+
+# Minima social links
+github_username: indonesia-vision-ai
 
 minima:
   date_format: "%Y-%m-%d"
