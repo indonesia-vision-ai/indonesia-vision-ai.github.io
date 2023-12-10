@@ -46,7 +46,7 @@ Explore the cutting-edge research initiatives led by Indonesia Vision AI. Our cu
 
 <div class="research-container">
   <div class="research-image">
-    <img src="images/manipulating-scene-text.jpg" alt="On Manipulating Scene Text">
+    <img src="assets/images/wacv2024-1.png" alt="On Manipulating Scene Text">
   </div>
 
   <div class="research-text">
