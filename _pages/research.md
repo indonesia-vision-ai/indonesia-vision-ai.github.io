@@ -7,19 +7,20 @@ title: Research
 <style>
   .research-container {
       margin: 25px 0;
-      position: relative;
       clear: both;
+      overflow: hidden;
   }
 
   .research-image {
     float: left;
-    width: 25%;
+    width: 100%;
+    max-width: 200px; /* adjust the max-width based on your design */
+    margin-bottom: 15px;
   }
 
   .research-text {
     float: left;
-    margin-left: 4%;
-    width: 70%;
+    width: 100%;
   }
 
   .research-text-title {
@@ -40,6 +41,15 @@ title: Research
     margin: 10px 0 0;
   }
 
+  @media (min-width: 768px) {
+    .research-image {
+      width: 30%;
+    }
+
+    .research-text {
+      width: 68%;
+    }
+  }
 </style>
 
 Explore the cutting-edge research initiatives led by Indonesia Vision AI. Our curated collection highlights key contributions to the field of computer vision, including groundbreaking papers and innovative projects. Each research paper represents a step forward in advancing vision AI technologies. Dive into the details, explore code repositories, and discover the latest insights from our research endeavors.
