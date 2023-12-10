@@ -4,7 +4,7 @@ layout: page
 title: Project
 ---
 
-Explore the captivating realm of computer vision research and innovation with a focus on contributions from Indonesia. Our curated repositories showcase the latest advancements in vision AI, featuring an array of research papers and projects. Dive into the selected content, carefully chosen to highlight the excellence and diversity of contributions from around the world. From groundbreaking Indonesian research to global innovations, our repositories offer a rich exploration of the dynamic field of computer vision.
+Explore curated repositories featuring the latest advancements in computer vision researchers from Indonesia. Our collection includes diverse research papers and projects, providing insights into the dynamic field of vision AI. Discover groundbreaking Indonesian contributions alongside global innovations.
 
 
 ## Featured Repositories
