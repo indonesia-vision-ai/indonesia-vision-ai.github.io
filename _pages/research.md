@@ -1,7 +1,7 @@
 ---
-permalink: /community
+permalink: /research
 layout: page
-title: Community
+title: Research
 ---
 
 🛠️ Page Under Construction - Exciting Updates Coming Soon!
