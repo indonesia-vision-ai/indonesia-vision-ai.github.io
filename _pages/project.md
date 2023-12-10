@@ -21,7 +21,4 @@ Discover the world of face swapping through this curated list of research papers
 
 Feel free to contribute, provide feedback, or suggest improvements. We value collaboration and welcome your participation in advancing vision AI in Indonesia.
 
-Thank you for joining us on this exciting journey!
-
-*Indonesia Vision AI Team*
 
