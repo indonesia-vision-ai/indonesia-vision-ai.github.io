@@ -9,7 +9,7 @@ Explore curated repositories featuring the latest advancements in computer visio
 
 ## Featured Repositories
 
-### 1. [Awesome Indonesia Vision Research Conference](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference)
+### 1. [Awesome Indonesia Vision Research - Conference Edition](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference)
 
 A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select conferences that have a rank of A and A* in CORE Conference Portal.
 
