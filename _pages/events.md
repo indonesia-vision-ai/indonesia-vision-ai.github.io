@@ -21,8 +21,8 @@ All our sessions are recorded and shared on our [YouTube channel](https://www.yo
 
 #### Past Sessions
 
-- [Session #1](/events/paper/session1) on Feb 16, 2024
-- [Session #2](/events/paper/session2) on Mar 01, 2024
-- [Session #3](/events/paper/session3) on Mar 21, 2024
-- [Session #4](/events/paper/session4) on Apr 05, 2024
 - [Session #5](/events/paper/session5) on Apr 19, 2024
+- [Session #4](/events/paper/session4) on Apr 05, 2024
+- [Session #3](/events/paper/session3) on Mar 21, 2024
+- [Session #2](/events/paper/session2) on Mar 01, 2024
+- [Session #1](/events/paper/session1) on Feb 16, 2024
