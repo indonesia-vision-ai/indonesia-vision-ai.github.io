@@ -16,8 +16,13 @@ All our sessions are recorded and shared on our [YouTube channel](https://www.yo
 
 #### Upcoming Sessions
 
+- [Session #6](/events/paper/session6) on May 02, 2024
+- [Session #7](/events/paper/session7) on May 16, 2024
 
 #### Past Sessions
 
 - [Session #1](/events/paper/session1) on Feb 16, 2024
 - [Session #2](/events/paper/session2) on Mar 01, 2024
+- [Session #3](/events/paper/session3) on Mar 21, 2024
+- [Session #4](/events/paper/session4) on Apr 05, 2024
+- [Session #5](/events/paper/session5) on Apr 19, 2024
