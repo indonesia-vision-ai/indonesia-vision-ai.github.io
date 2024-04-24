@@ -20,3 +20,4 @@ All our sessions are recorded and shared on our [YouTube channel](https://www.yo
 #### Past Sessions
 
 - [Session #1](/events/paper/session1) on Feb 16, 2024
+- [Session #2](/events/paper/session2) on Mar 01, 2024
