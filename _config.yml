@@ -21,7 +21,7 @@ header_pages:
   
 include:
     - _pages
-    - _pages/_events/_paper
+    - _pages/_events
 
 exclude:
     - README.md
