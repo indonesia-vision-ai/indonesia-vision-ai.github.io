@@ -15,8 +15,8 @@ minima:
 
 header_pages:
   - _pages/frontpage.md
-  - _pages/about.md
   - _pages/project.md
+  - _pages/events.md
   - _pages/research.md
   
 include:
