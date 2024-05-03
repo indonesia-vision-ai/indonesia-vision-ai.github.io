@@ -10,3 +10,5 @@ title: Paper Reading Group - Session 6
 - Project Page: [https://haoningwu3639.github.io/StoryGen_Webpage/](https://haoningwu3639.github.io/StoryGen_Webpage/)
 - Paper: [https://arxiv.org/abs/2306.00973](https://arxiv.org/abs/2306.00973)
 - Code: [https://github.com/haoningwu3639/StoryGen](https://github.com/haoningwu3639/StoryGen)
+
+{% include youtube.html id="Ca6FHSwFaTw" %}
