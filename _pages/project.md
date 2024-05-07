@@ -13,7 +13,11 @@ Explore curated repositories featuring the latest advancements in computer visio
 
 A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select conferences that have a rank of A and A* in CORE Conference Portal.
 
-### 2. [Awesome Face Swapping](https://github.com/indonesia-vision-ai/awesome-face-swapping)
+### 2. [Awesome Indonesia Vision Research - Journal Edition](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-journal)
+
+A curated list of resources dedicated to research papers published by Indonesians at top international journals.
+
+### 3. [Awesome Face Swapping](https://github.com/indonesia-vision-ai/awesome-face-swapping)
 
 Discover the world of face swapping through this curated list of research papers. Explore the innovative technologies and breakthroughs in the field.
 
