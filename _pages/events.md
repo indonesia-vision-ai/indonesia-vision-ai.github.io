@@ -14,6 +14,8 @@ Our paper reading group sessions are designed to explore papers of mutual intere
 
 All our sessions are recorded and shared on our [YouTube channel](https://www.youtube.com/@IndonesiaVisionAI-vg2tf).
 
+If you want to participate as a speaker, please add your name at this [link](https://docs.google.com/spreadsheets/d/1Cqi7y8d3s54MSVxGITAPXQ6WsDCeqCHIEv2r-5_JsaM/edit#gid=0)
+
 #### Upcoming Sessions
 
 - [Session #8](/events/paper/session8) on May 30, 2024
@@ -28,3 +30,4 @@ All our sessions are recorded and shared on our [YouTube channel](https://www.yo
 - [Session #3](/events/paper/session3) on Mar 21, 2024
 - [Session #2](/events/paper/session2) on Mar 01, 2024
 - [Session #1](/events/paper/session1) on Feb 16, 2024
+
