@@ -18,11 +18,12 @@ If you want to participate as a speaker, please add your name at this [link](htt
 
 #### Upcoming Sessions
 
-- [Session #8](/events/paper/session8) on May 30, 2024
 - [Session #9](/events/paper/session9) on June 13, 2024
+- [Session #10](/events/paper/session10) on June 27, 2024
 
 #### Past Sessions
 
+- [Session #8](/events/paper/session8) on May 30, 2024
 - [Session #7](/events/paper/session7) on May 16, 2024
 - [Session #6](/events/paper/session6) on May 02, 2024
 - [Session #5](/events/paper/session5) on Apr 19, 2024
