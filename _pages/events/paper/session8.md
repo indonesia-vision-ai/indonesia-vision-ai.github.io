@@ -10,3 +10,5 @@ title: Paper Reading Group - Session 8
 - Project Page: [https://initialneil.github.io/SplattingAvatar](https://initialneil.github.io/SplattingAvatar)
 - Paper: [https://arxiv.org/abs/2403.05087](https://arxiv.org/abs/2403.05087)
 - Code: [https://github.com/initialneil/SplattingAvatar](https://github.com/initialneil/SplattingAvatar)
+
+{% include youtube.html id="zk6cBkkoGlA" %}
