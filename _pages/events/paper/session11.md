@@ -4,7 +4,7 @@ layout: page
 title: Paper Reading Group - Session 11
 ---
 
-## BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
+## Vision Language Models: Connecting Image Encoders to LLMs
 
 - Presenter: [I Putu Agi Karasugi](https://www.linkedin.com/in/agikarasugi/)
 - Presentation Material: [PPT](https://docs.google.com/presentation/d/1iSx0i2w-OiEyFZf_A2AoAf9BH2qo2p9QSEh5Hgh8K7I/edit?usp=sharing)
