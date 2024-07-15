@@ -16,6 +16,8 @@ All our sessions are recorded and shared on our [YouTube channel](https://www.yo
 
 If you want to participate as a speaker, please add your name at this [link](https://docs.google.com/spreadsheets/d/1Cqi7y8d3s54MSVxGITAPXQ6WsDCeqCHIEv2r-5_JsaM/edit#gid=0)
 
+If you want to be update with the schedule of this event, please subscribe this [calendar](https://calendar.google.com/calendar/u/0/r?cid=ZTFkMTJmYzlkMmJmMDYyNDZlMTQ4ZDQ0MTYxM2FkNmE4OGIzODgxMzU4MGU2NDZlOGQ4NDNjZmJlY2I3MTE2ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
 #### Upcoming Sessions
 
 - [Session #12](/events/paper/session12) on July 25, 2024
