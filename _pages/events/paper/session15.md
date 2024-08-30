@@ -4,7 +4,7 @@ layout: page
 title: Paper Reading Group - Session 15
 ---
 
-## Interactive and Explainable Region-guided Radiology Report Generation
+## How to win the lottery! (Model compression)
 
 
-- Presenter: [I Putu Agi Karasugi](https://www.linkedin.com/in/agikarasugi)
+- Presenter: [William Gazali](https://www.linkedin.com/in/william-gazali-31880a20a)
