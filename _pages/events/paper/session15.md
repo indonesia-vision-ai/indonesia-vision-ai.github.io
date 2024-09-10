@@ -8,3 +8,6 @@ title: Paper Reading Group - Session 15
 
 
 - Presenter: [William Gazali](https://www.linkedin.com/in/william-gazali-31880a20a)
+- Presentation Material: [PPT](https://docs.google.com/presentation/d/16Ne7tDbqD_VAg3NxP4RCzIBa9RnohJ1E/edit#slide=id.p1)
+
+{% include youtube.html id="TwQuaYKxtwY" %}
