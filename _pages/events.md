@@ -20,11 +20,11 @@ If you want to be updated with the schedule of this event, please subscribe this
 
 #### Upcoming Sessions
 
-- [Session #16](/events/paper/session16) on September 19, 2024
 - [Session #17](/events/paper/session17) on October 03, 2024
 
 #### Past Sessions
 
+- [Session #16](/events/paper/session16) on September 26, 2024
 - [Session #15](/events/paper/session15) on September 5, 2024
 - [Session #14](/events/paper/session14) on August 27, 2024
 - [Session #13](/events/paper/session13) on August 8, 2024
