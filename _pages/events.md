@@ -20,7 +20,7 @@ If you want to be updated with the schedule of this event, please subscribe this
 
 #### Upcoming Sessions
 
-- Session 21, Agi karasugi 
+- Session 21, on January 09, 2025 by Agi Karasugi
 
 #### Past Sessions
 
