@@ -24,6 +24,7 @@ If you want to be updated with the schedule of this event, please subscribe this
 
 #### Past Sessions
 
+- [Session #20](/events/paper/session20) on December 19, 2024
 - [Session #19](/events/paper/session19) on December 05, 2024
 - [Session #18](/events/paper/session18) on November 21, 2024
 - [Session #17](/events/paper/session17) on October 03, 2024
