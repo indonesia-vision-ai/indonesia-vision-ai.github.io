@@ -20,10 +20,11 @@ If you want to be updated with the schedule of this event, please subscribe this
 
 #### Upcoming Sessions
 
-- Session 21, on January 09, 2025 by Agi Karasugi
+- Session 22, on January 30, 2025 by Christian Simon
 
 #### Past Sessions
 
+- [Session #21](/events/paper/session21) on January 16, 2025
 - [Session #20](/events/paper/session20) on December 19, 2024
 - [Session #19](/events/paper/session19) on December 05, 2024
 - [Session #18](/events/paper/session18) on November 21, 2024
