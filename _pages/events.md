@@ -20,10 +20,11 @@ If you want to be updated with the schedule of this event, please subscribe this
 
 #### Upcoming Sessions
 
-- Session 24, on February 27, 2025
+- Session 26, TBD
 
 #### Past Sessions
 
+- [Session #24](/events/paper/session24) on February 27, 2025
 - [Session #23](/events/paper/session23) on February 06, 2025
 - [Session #22](/events/paper/session22) on January 30, 2025
 - [Session #21](/events/paper/session21) on January 16, 2025
